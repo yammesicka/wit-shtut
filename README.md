@@ -1,0 +1,3 @@
+# wit Project
+This project will manage a wit repository.
+**wit** is a...
