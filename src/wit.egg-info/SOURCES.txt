@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/errors.py
+src/init.py
+src/paths.py
+src/wit.py
+src/wit.egg-info/PKG-INFO
+src/wit.egg-info/SOURCES.txt
+src/wit.egg-info/dependency_links.txt
+src/wit.egg-info/top_level.txt
+tests/test_init.py

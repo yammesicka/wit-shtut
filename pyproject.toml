@@ -1,0 +1,9 @@
+[project]
+name = "wit"
+version = "0.0.1"
+
+# [tool.setuptools]
+# package-dir = {"" = "wit"}
+#
+# [tool.setuptools.packages.find]
+# where = ["wit"]
